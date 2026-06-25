@@ -31,7 +31,8 @@ class main_window_to_write_hero(QMainWindow):
 
     def on_enter(self):
         text = self.input.text().capitalize()
-        print(text)
+        return text
+
 
 app = QApplication(sys.argv)
 

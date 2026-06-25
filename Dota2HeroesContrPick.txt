@@ -1,0 +1,126 @@
+Chen, Broodmother, Kunkka  
+Timbersaw, Spark, Dragon Knight
+Puck, Lycan, Largo
+Huskar, Troll Warlord, Slardar
+Broodmother, Chen, Lycan
+Ursa, Timbersaw, Lifestealer
+Abaddon, Anti-Mage, Slark
+Slark, Lifestealer, Abaddon
+Winter Wyvern, Timbersaw, Necrophos
+Storm Spirit, Medusa, Faceless Void
+Slardar, Spirit Breaker, Zeus
+Outworld Destroyer, Death Prophet, Silencer
+Viper, Timbersaw, Slark
+Earthshaker, Kunkka, Legion Commander
+Lifestealer, Necrophos, Timbersaw
+Sven, Medusa, Enigma
+Sven, Earthshaker, Clinkz
+Slark, Phantom Assassin, Bounty Hunter
+Ursa, Lifestealer, Juggernaut
+Clockwerk, Earthshaker, Nyx Assassin
+Anti-Mage, Sniper, Oracle
+Anti-Mage, Juggernaut, Lifestealer
+Sniper, Ursa, Lifestealer
+Axe, Silencer, Ancient Apparition
+Medusa, Sniper, Ancient Apparition
+Anti-Mage, Lifestealer, Juggernaut
+Wraith King, Medusa, Lifestealer
+Outworld Destroyer, Timbersaw, Necrophos
+Mars, Phantom Assassin, Spectre
+Abaddon, Anti-Mage, Lifestealer
+Spectre, Sniper, Zeus
+Juggernaut, Lifestealer, Sniper
+Slark, Outworld Destroyer, Huskar
+Broodmother, Phantom Lancer, Clinkz
+Rubick, Silencer, Wraith King
+Sniper, Outworld Destroyer, Omniknight
+Silencer, Juggernaut, Lifestealer
+Anti-Mage, Lifestealer, Juggernaut
+Storm Spirit, Puck, Juggernaut
+Necrophos, Viper, Ancient Apparition
+Anti-Mage, Silencer, Doom
+Riki, Night Stalker, Silencer
+Juggernaut, Lifestealer, Rubick
+Ursa, Outworld Destroyer, Omniknight
+Pugna, Night Stalker, Nyx Assassin
+Necrophos, Viper, Axe
+Ursa, Outworld Destroyer, Timbersaw
+Outworld Destroyer, Timbersaw, Ursa
+Pugna, Anti-Mage, Clockwerk
+Anti-Mage, Silencer, Broodmother
+Razor, Slark, Ursa
+Anti-Mage, Lifestealer, Juggernaut
+Rubick, Lifestealer, Juggernaut
+Lifestealer, Sven, Winter Wyvern
+Slark, Juggernaut, Lifestealer
+Sven, Earthshaker, Bloodseeker
+Techies, Rubick, Outworld Destroyer
+Winter Wyvern, Necrophos, Timbersaw
+Timbersaw, Necrophos, Outworld Destroyer
+Anti-Mage, Diffusal Blade carriers (Slark/Phantom Lancer), Invoker
+Earthshaker, Winter Wyvern, Sven
+Abaddon, Slark, Lifestealer
+Timbersaw, Windranger, Slark
+Anti-Mage, Outworld Destroyer, Axe
+Axe, Juggernaut, Lifestealer
+Earthshaker, Leshrac, Sven
+Spirit Breaker, Storm Spirit, Spectre
+Ancient Apparition, Viper, Anti-Mage
+Sven, Bristleback, Lifestealer
+Lifestealer, Juggernaut, Anti-Mage
+Lifestealer, Juggernaut, Rubick
+Axe, Shadow Fiend, Outworld Destroyer
+Silencer, Night Stalker, Axe
+Nyx Assassin, Rubick, Silencer
+Bloodseeker, Grimstroke, Slark
+Axe, Timbersaw, Morphling
+Earthshaker, Sven, Leshrac
+Silencer, Juggernaut, Lifestealer
+Necrophos, Timbersaw, Lifestealer
+Templar Assassin, Night Stalker, Puck
+Lifestealer, Ursa, Outworld Destroyer
+Nyx Assassin, Pugna, Clockwerk
+Puck, Anti-Mage, Lifestealer
+Viper, Outworld Destroyer, Anti-Mage
+Slardar, Bounty Hunter, Zeus
+Silencer, Night Stalker, Clockwerk
+Silencer, Juggernaut, Lifestealer
+Lifestealer, Juggernaut, Rubick
+Axe, Anti-Mage, Juggernaut
+Sniper, Ursa, Templar Assassin
+Bounty Hunter, Silencer, Juggernaut
+Broodmother, Phantom Lancer, Phantom Assassin
+Pugna, Anti-Mage, Nyx Assassin
+Meepo, Slark, Underlord
+Axe, Bloodseeker, Outworld Destroyer
+Juggernaut, Lifestealer, Silencer
+Spectre, Storm Spirit, Clockwerk
+Necrophos, Lifestealer, Undying
+Underlord, Enigma, Outworld Destroyer
+Anti-Mage, Silencer, Night Stalker
+Medusa, Enigma, Spectre
+Lifestealer, Juggernaut, Rubick
+Viper, Batrider, Huskar
+Earthshaker, Sven, Zeus
+Lifestealer, Outworld Destroyer, Timbersaw
+Outworld Destroyer, Necrophos, Viper
+Storm Spirit, Clockwerk, Nyx Assassin
+Lifestealer, Ursa, Necrophos
+Timbersaw, Sven, Phoenix
+Axe, Razor, Outworld Destroyer
+Lifestealer, Slark, Ursa
+Sniper, Ursa, Lifestealer
+Axe, Earthshaker, Timbersaw
+Viper, Razor, Outworld Destroyer
+Phantom Assassin, Slark, Juggernaut
+Sniper, Viper, Juggernaut
+Sniper, Outworld Destroyer, Phantom Assassin
+Bristleback, Axe, Kunkka
+Viper, Outworld Destroyer, Huskar
+Silencer, Juggernaut, Lifestealer
+Slardar, Bloodseeker, Faceless Void
+Axe, Blade Mail users (Centaur), Spectre
+Ancient Apparition, Sniper, Timbersaw
+Rubick, Silencer, Juggernaut
+Anti-Mage, Lifestealer, Slark
+Anti-Mage, Huskar, Viper
