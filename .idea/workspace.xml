@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="552d328b-cf76-45f9-bb36-a5997fad48c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dota2Heroes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dota2HeroesContrPick.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dota.db.py" beforeDir="false" afterPath="$PROJECT_DIR$/dota.db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
